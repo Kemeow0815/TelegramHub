@@ -291,7 +291,7 @@ function ShareContent() {
         </Card>
 
         <div className="mt-8 text-center text-sm text-muted-foreground/50 z-10">
-          Powered by OtterHub
+          Powered by Ke Miao
         </div>
       </div>
     </>

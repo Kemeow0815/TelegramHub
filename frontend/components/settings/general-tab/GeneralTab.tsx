@@ -501,7 +501,7 @@ export function GeneralTab({
               </div>
             </div>
             <HintBox>
-              首次批量下载需选择目录。建议提前创建 OtterHub
+              首次批量下载需选择目录。建议提前创建 TelegramHub
               文件夹。目录授权失效时会重新提示。
             </HintBox>
           </SettingCard>
